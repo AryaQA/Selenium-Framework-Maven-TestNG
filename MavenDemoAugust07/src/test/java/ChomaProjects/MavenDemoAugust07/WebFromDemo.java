@@ -74,6 +74,8 @@ public class WebFromDemo {
 
 	@AfterTest
 	void closing() {
+		
+		System.out.println("Hello , to check commit");
 
 		driver.quit();
 
