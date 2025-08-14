@@ -47,7 +47,7 @@ public class WebFromDemo {
 
 		Select select = new Select(dropdown);
 
-		file.sendKeys("MavenDemoAugust07/Class_details.txt");
+		file.sendKeys("Class_details.txt");
 
 		select.selectByValue("3");
 
