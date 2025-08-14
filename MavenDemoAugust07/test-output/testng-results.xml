@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-07T08:06:36 IST" name="Default suite" finished-at="2025-08-07T08:07:00 IST" duration-ms="23814">
+  <suite started-at="2025-08-13T23:05:18 IST" name="Suite" finished-at="2025-08-13T23:05:42 IST" duration-ms="24279">
     <groups>
     </groups>
-    <test started-at="2025-08-07T08:06:36 IST" name="Default test" finished-at="2025-08-07T08:07:00 IST" duration-ms="23814">
+    <test started-at="2025-08-13T23:05:18 IST" name="Test" finished-at="2025-08-13T23:05:42 IST" duration-ms="24279">
       <class name="ChomaProjects.MavenDemoAugust07.WebFromDemo">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:ChomaProjects.MavenDemoAugust07.WebFromDemo@74ea2410]" started-at="2025-08-07T08:06:36 IST" name="setUp" finished-at="2025-08-07T08:06:54 IST" duration-ms="17474" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ChomaProjects.MavenDemoAugust07.WebFromDemo@19e4653c]" started-at="2025-08-13T23:05:18 IST" name="setUp" finished-at="2025-08-13T23:05:35 IST" duration-ms="16352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="fillFrom()[pri:0, instance:ChomaProjects.MavenDemoAugust07.WebFromDemo@74ea2410]" started-at="2025-08-07T08:06:54 IST" name="fillFrom" finished-at="2025-08-07T08:06:58 IST" duration-ms="4498" status="PASS">
+        <test-method signature="fillFrom()[pri:0, instance:ChomaProjects.MavenDemoAugust07.WebFromDemo@19e4653c]" started-at="2025-08-13T23:05:35 IST" name="fillFrom" finished-at="2025-08-13T23:05:40 IST" duration-ms="4809" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fillFrom -->
-        <test-method is-config="true" signature="closing()[pri:0, instance:ChomaProjects.MavenDemoAugust07.WebFromDemo@74ea2410]" started-at="2025-08-07T08:06:59 IST" name="closing" finished-at="2025-08-07T08:07:00 IST" duration-ms="1585" status="PASS">
+        <test-method is-config="true" signature="closing()[pri:0, instance:ChomaProjects.MavenDemoAugust07.WebFromDemo@19e4653c]" started-at="2025-08-13T23:05:40 IST" name="closing" finished-at="2025-08-13T23:05:42 IST" duration-ms="2703" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closing -->
       </class> <!-- ChomaProjects.MavenDemoAugust07.WebFromDemo -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
