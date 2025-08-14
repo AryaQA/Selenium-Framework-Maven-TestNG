@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
+import java.io.*;
 public class WebFromDemo {
 
 	WebDriver driver;
@@ -46,6 +46,8 @@ public class WebFromDemo {
 		textarea.sendKeys("this is text area");
 
 		Select select = new Select(dropdown);
+		File classDetails = new File("Class_details.txt");
+		file.sendKeys(classDetails.getAbsolutePath());
 
 		file.sendKeys("Class_details.txt");
 
