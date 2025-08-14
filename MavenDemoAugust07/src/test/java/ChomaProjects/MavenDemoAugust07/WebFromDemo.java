@@ -49,7 +49,7 @@ public class WebFromDemo {
 		File classDetails = new File("Class_details.txt");
 	    file.sendKeys(classDetails.getAbsolutePath());
 		
-		//System.out.println(classDetails.getAbsolutePath());
+	System.out.println(classDetails.getAbsolutePath());
 
 	//file.sendKeys("Class_details.txt");
 
